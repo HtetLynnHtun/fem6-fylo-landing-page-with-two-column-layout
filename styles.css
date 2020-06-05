@@ -13,3 +13,22 @@ h1,
 h2 {
   font-family: "Raleway", sans-serif;
 }
+
+/* ============ nav style ============ */
+nav {
+  margin: 20px;
+  display: flex;
+}
+.nav-logo {
+  width: 25%;
+}
+.nav-list {
+  margin-left: auto;
+  position: relative;
+  top: 3px;
+}
+.nav-list li {
+  list-style: none;
+  display: inline;
+  margin-left: 20px;
+}
