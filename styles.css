@@ -104,3 +104,10 @@ h1, h1+p {
 .testimonial p:last-child {
   font-size: 0.6rem;
 }
+
+/* ========= c-3 style ========= */
+.c-3 {
+  background-color: hsl(238, 22%, 44%);
+  color: white;
+  text-align: center;
+}
