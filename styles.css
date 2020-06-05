@@ -111,3 +111,61 @@ h1, h1+p {
   color: white;
   text-align: center;
 }
+
+/* ======== c-4 style ========== */
+.c-4 {
+  background: hsl(243, 87%, 12%);
+  color: white;
+}
+.logo {
+  width: 25%;
+  margin-bottom: 20px;
+}
+.c-4 ul {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.c-4 li {
+  margin-bottom: 15px;
+}
+ul.contact {
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+.contact span {
+  position: relative;
+  left: 10px;
+}
+#phone {
+  list-style: url("images/icon-phone.svg");
+}
+#mail {
+  list-style: url("images/icon-email.svg");
+}
+.social {
+  text-align: center;
+  font-size: 1.5rem;
+}
+i {
+  margin-right: 10px;
+}
+
+/* ======= cta style ========== */
+.cta {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  border: 1.5px solid hsl(238, 22%, 44%);
+}
+button {
+  border: none;
+  background-color: hsl(224, 93%, 58%);
+  color: white;
+}
+input, button {
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 5px;
+}
