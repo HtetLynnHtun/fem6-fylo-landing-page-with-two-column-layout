@@ -57,6 +57,7 @@ section {
 }
 h1, h1+p {
   text-align: center;
+  margin-bottom: 20px;
 }
 .c-1 {
   padding-bottom: 50px;
